@@ -1,6 +1,8 @@
 # LinAlgebraX
 
-#### Video Demo: <https://youtu.be/RQzOT0Xk3C8>
+## Video Demo
+
+[![Watch the LinAlgebraX demo](https://img.youtube.com/vi/RQzOT0Xk3C8/maxresdefault.jpg)](https://youtu.be/RQzOT0Xk3C8)
 
 #### Description
 
