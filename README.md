@@ -4,7 +4,7 @@
 
 ![LinAlgebraX preview](assets/demo.gif)
 
-[![Watch the full LinAlgebraX demo](https://img.youtube.com/vi/RQzOT0Xk3C8/maxresdefault.jpg)](https://youtu.be/RQzOT0Xk3C8)
+[Watch the full demo on YouTube](https://youtu.be/RQzOT0Xk3C8)
 
 #### Description
 
