@@ -199,37 +199,6 @@ For exemple, for the command `inverse A`:
 
 
 
-## Testing
-
-Run the complete test suite with:
-
-```bash
-pytest
-```
-
-The tests cover:
-
-* the three required functions in `project.py`
-* vector and matrix construction
-* exact matrix operations
-* Gauss-Jordan elimination
-* determinants and inverses
-* kernels and images
-* unique, infinite, and inconsistent linear systems
-* vector families and linear dependence
-* Gram-Schmidt orthogonalization
-* projections
-* polynomial operations
-* sums and intersections of subspaces
-* session memory and object deletion
-* the undo system
-* the dimension limit
-* scene generation
-* the `PLAY` animation control
-* LaTeX output
-* three-dimensional camera movement
-
-The mathematical tests generally verify mathematical identities rather than only comparing printed output. For example, the inverse test verifies that
 
 ```python
 A @ inverse == Matrice.identite(2)
